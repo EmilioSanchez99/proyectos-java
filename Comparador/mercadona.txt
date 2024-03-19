@@ -1,0 +1,6 @@
+platanos 
+1
+manzanas
+2
+leche
+1
