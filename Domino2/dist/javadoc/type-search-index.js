@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"domino2","l":"Domino2"},{"p":"domino2","l":"Ficha"},{"p":"domino2","l":"Jugador"}];updateSearchResults();
